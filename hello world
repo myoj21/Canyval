@@ -1,0 +1,8 @@
+#import <stio.h>
+#impost <math.h>
+
+void int main (){
+  
+  printf(%s,"Hello Wolrd");
+
+}
